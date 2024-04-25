@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://github.com/Sway738"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=480&height=75&lines=Hi+there!+Welcome+to+my+Github;I'm+thrilled+to+have+you+here" alt="Typing SVG" /></a>
 </p>
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
