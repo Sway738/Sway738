@@ -68,8 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sway738/Sway738/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
